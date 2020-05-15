@@ -6,4 +6,4 @@ This repository contains the supplementary materials of "Identifying Health Corr
 - Background (BG) cohort: All records for women of 18-65 years of age.
 - Intimate Partner Violence (IPV) cohorts: All records for women of 18-65 years of age, suffering from IPV.
 - Background cohort for older women (Senior): All records for older women of 65+ years of age.
-- Intimate partner violence for older women (SeniorIPV): All records for older women of 65+ years of age.
+- Intimate partner violence for older women (SeniorIPV): All records for older women of 65+ years of age, suffering from IPV.
