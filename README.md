@@ -1,5 +1,5 @@
 ## Identifying Health Correlates of Intimate Partner Violence Against Older Women
-This repository contains supplementary materials of "*Mining Electronic Health Records to Identify Adverse Health Correlates of Intimate Partner Violence against Older Women*".
+In this repository, we provide four supplementary datasets containing the raw data (from IBM Explorys Therapeutic Dataset) as well as the terms identified in our analyses. 
 
 ### Supplementary Data 1 - Raw Data
 [Supplementary Data 1](supplementary_data_1.xlsx) contains the frequencies of all 18863 diagnostic terms in all analyzed cohorts, including:
