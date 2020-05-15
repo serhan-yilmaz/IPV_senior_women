@@ -8,11 +8,11 @@ This repository contains supplementary materials of "*Mining Electronic Health R
 - Background cohort for older women (Senior): All records for older women of 65+ years of age.
 - Intimate partner violence for older women (SeniorIPV): All records for older women of 65+ years of age, suffering from IPV.
 
-### Supplementary Data 2 - Terms that are commonly observed in older women suffering from IPV
+### Supplementary Data 2 - Terms that are commonly observed in older victims of IPV
 [Supplementary Data 2](supplementary_data_2.xlsx) contains the results of the prevalence analysis for IPV in older women (65+) population. 
 The terms identified as prevalent here are significantly associated with IPV (measured by log-odds ratio) in older women population. That is, these terms exhibit significantly higher frequency in the older women population when present together with intimate partner violence. 
 
-### Supplementary Data 3 - Terms that are commonly observed in younger women suffering from IPV
+### Supplementary Data 3 - Terms that are commonly observed in younger victims of IPV
 [Supplementary Data 3](supplementary_data_3.xlsx) contains the results of the prevalence analysis for IPV in the background (18-65 years of age) population. The terms identified as prevalent here are significantly associated with IPV (measured by log-odds ratio) in younger women (background) population. To be more specific, these terms exhibit significantly higher frequencies in the younger population when present together with intimate partner violence. 
 
 ### Supplementary Data 4 - Terms that are more commonly observed in older victims of IPV
