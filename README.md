@@ -1,4 +1,4 @@
-## Identifying Health Correlates of Intimate Partner Violence (IPV) Against Older Women
+## Identifying Health Correlates of Intimate Partner Violence Against Older Women
 This repository contains supplementary materials of "*Mining Electronic Health Records to Identify Adverse Health Correlates of Intimate Partner Violence against Older Women*".
 
 ### Supplementary Data 1 - Raw Data
